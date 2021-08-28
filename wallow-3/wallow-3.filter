@@ -309,11 +309,11 @@ ItemDisplay[r25]: %NOTIFY-ORANGE%%PURPLE%@@@@ %ORANGE%%NAME% %PURPLE%@@@@
 ItemDisplay[r26]: %NOTIFY-ORANGE%%PURPLE%@@@@@ %ORANGE%%NAME% %PURPLE%@@@@@
 ItemDisplay[r27]: %NOTIFY-ORANGE%%PURPLE%@@@@@ %ORANGE%%NAME% %PURPLE%@@@@@
 ItemDisplay[r28]: %NOTIFY-ORANGE%%PURPLE%@@@@@ %ORANGE%%NAME% %PURPLE%@@@@@
-ItemDisplay[r29]: %NOTIFY-ORANGE%%PURPLE%@@@@@ %ORANGE%%NAME% %PURPLE%@@@@@
-ItemDisplay[r30]: %NOTIFY-ORANGE%%PURPLE%@@@@@ %ORANGE%%NAME% %PURPLE%@@@@@
-ItemDisplay[r31]: %NOTIFY-ORANGE%%PURPLE%@@@@@ %ORANGE%%NAME% %PURPLE%@@@@@
-ItemDisplay[r32]: %NOTIFY-ORANGE%%PURPLE%@@@@@ %ORANGE%%NAME% %PURPLE%@@@@@
-ItemDisplay[r33]: %NOTIFY-ORANGE%%PURPLE%@@@@@ %ORANGE%%NAME% %PURPLE%@@@@@
+ItemDisplay[r29]: %NOTIFY-ORANGE%%PURPLE%@@@@@@ %ORANGE%%NAME% %PURPLE%@@@@@@
+ItemDisplay[r30]: %NOTIFY-ORANGE%%PURPLE%@@@@@@ %ORANGE%%NAME% %PURPLE%@@@@@@
+ItemDisplay[r31]: %NOTIFY-ORANGE%%PURPLE%@@@@@@ %ORANGE%%NAME% %PURPLE%@@@@@@
+ItemDisplay[r32]: %NOTIFY-ORANGE%%PURPLE%@@@@@@ %ORANGE%%NAME% %PURPLE%@@@@@@
+ItemDisplay[r33]: %NOTIFY-ORANGE%%PURPLE%@@@@@@ %ORANGE%%NAME% %PURPLE%@@@@@@
 
 //====================================================================================================
 //Gems
@@ -350,7 +350,7 @@ ItemDisplay[r33]: %NOTIFY-ORANGE%%PURPLE%@@@@@ %ORANGE%%NAME% %PURPLE%@@@@@
 ItemDisplay[skc CLVL<21]: %ORANGE%Skull-1
 ItemDisplay[skf CLVL<31]: %ORANGE%Skull-2
 ItemDisplay[sku CLVL<41]: %ORANGE%Skull-3
-ItemDisplay[skl]: %NOTIFY-ORANGE%%RED%@@@ %ORANGE%Skull-4 %RED%@@@
+ItemDisplay[skl]: %ORANGE%Skull-4
 ItemDisplay[skz]: %ORANGE%Skull-5
 
 ItemDisplay[gcv CLVL<21]: %ORANGE%Amethyst-1
